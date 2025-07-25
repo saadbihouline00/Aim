@@ -1,0 +1,3 @@
+// @modifiedBy: QueenofSpain
+console.log("QueenofSpain Tanki script loaded.");
+// Put your Aimbot, ESP, and menu code here...
